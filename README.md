@@ -1,4 +1,4 @@
 
 ## License
 
-Copyright (c) 2026 Love. All rights reserved.
+Copyright (c) 2026 Alisha Bevis. All rights reserved.
